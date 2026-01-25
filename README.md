@@ -6,9 +6,13 @@ Carmetic Detailing is a high-performance web application designed to bridge the 
 
 🛠️ Tech Stack
 Frontend: React / Next.js (Speed & SEO optimization)
+
 Styling: Tailwind CSS (Custom utility-first design system)
+
 Animations: Framer Motion (Smooth, "luxury-feel" transitions)
+
 Infrastructure: AWS (Cloud hosting and scalability)
+
 Payments: Stripe (Secure checkout for service deposits)
 
 ✨ Key Features & UX Architecture
@@ -26,21 +30,27 @@ Deployed using AWS to ensure high availability and fast content delivery (CDN), 
 
 🎨 Design Philosophy: "Digital Precision"
 To match the brand's identity, the UI follows a Minimalist Dark Theme using:
+
 High-Contrast Typography: Clear hierarchy to guide the user toward the "Book Now" call-to-action.
+
 Motion Design: Subltle scroll-triggered animations that mimic the smoothness of a ceramic-coated finish.
+
 Visual Trust: Dedicated sections for "AWS + Stripe" integrations to signal technical reliability and payment security to the customer.
 
 🚀 Getting Started
 Clone the repo:
+
 Bash
 git clone https://github.com/yourusername/carmetic-detailing.git
 
 Install dependencies:
+
 Bash
 npm install
 Setup Environment Variables: Create a .env file for your Stripe and AWS keys.
 
 Run Development Server:
+
 Bash
 npm run dev
 
