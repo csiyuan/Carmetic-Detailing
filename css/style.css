@@ -6465,7 +6465,7 @@ input[type=checkbox]:checked+label:before {
 
 /** Counters 1 start **/
 .counters-1 {
-    background: url(../img/banner/image-6.jpg);
+    background: url(../img/banner/image-6.webp);
     z-index: 0;
     background-position: center center;
     background-repeat: no-repeat;
@@ -6523,7 +6523,7 @@ input[type=checkbox]:checked+label:before {
 /** Counters 2 start **/
 .counters-2 {
     padding: 80px 0 50px;
-    background: url(../img/banner/image-6.jpg);
+    background: url(../img/banner/image-6.webp);
     z-index: 0;
     background-position: center center;
     background-repeat: no-repeat;
@@ -6992,7 +6992,7 @@ input[type=checkbox]:checked+label:before {
 }
 
 .testimonial-3 {
-    background: url(../img/banner/image-7.jpg);
+    background: url(../img/banner/image-7.webp);
     z-index: 0;
     background-position: center center;
     background-repeat: no-repeat;
